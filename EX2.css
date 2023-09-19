@@ -1,0 +1,13 @@
+td{
+    border: 3px solid black;
+    width:60px ;
+    height: 30px;
+    background-color:red;
+    text-align: center;
+    color: white;
+    }
+    tr :nth-child(even) {
+        display: none;
+    
+    
+    }
